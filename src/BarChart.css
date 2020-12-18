@@ -1,0 +1,24 @@
+.lebron {
+  background-color: rgba(130, 0, 162, 0.6);
+  border: 1px solid rgba(130, 0, 162, 1);
+}
+
+.curry {
+  background-color: rgba(251, 255, 40, 0.45);
+  border: 1px solid rgba(251, 255, 40, 0.85);
+}
+
+.giannis {
+  background-color: rgba(0, 137, 48, 0.45);
+  border: 1px solid rgba(57, 201, 108, 0.85);
+}
+
+.luka {
+  background-color: rgba(0, 116, 192, 0.35);
+  border: 1px solid rgba(0, 116, 192, 0.75);
+}
+
+.harden {
+  background-color: rgba(192, 0, 20, 0.35);
+  border: rgba(192, 0, 20, 0.75);
+}

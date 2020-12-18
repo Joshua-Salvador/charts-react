@@ -1,0 +1,14 @@
+.red {
+  background-color: rgba(255, 100, 85, 0.5);
+  border: 1px solid rgba(255, 100, 90, 0.5);
+}
+
+.green {
+  background-color: rgba(25, 255, 85, 0.5);
+  border: 1px solid rgba(35, 255, 95, 0.5);
+}
+
+.blue {
+  background-color: rgba(5, 100, 255, 0.5);
+  border: 1px solid rgba(5, 110, 255, 0.5);
+}

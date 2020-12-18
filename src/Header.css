@@ -1,0 +1,25 @@
+.header {
+  background-color: #111;
+  color: #eee;
+  padding: 20px;
+}
+
+.header__title {
+  font-size: 3rem;
+  margin: 15px;
+}
+
+.header__charts {
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__chart {
+  text-decoration: none;
+  color: #eee;
+}
+.header__chart:hover {
+  cursor: pointer;
+  color: #aaa;
+}
