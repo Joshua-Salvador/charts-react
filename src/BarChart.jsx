@@ -7,11 +7,11 @@ import './BarChart.css'
 
 function BarChart() {
 
-  const [lebronVotes, setLebronVotes] = useState(80);
-  const [curryVotes, setCurryVotes] = useState(75);
-  const [giannisVotes, setGiannisVotes] = useState(72);
-  const [lukaVotes, setLukaVotes] = useState(72);
-  const [hardenVotes, setHardenVotes] = useState(60);
+  const [lebronVotes, setLebronVotes] = useState();
+  const [curryVotes, setCurryVotes] = useState();
+  const [giannisVotes, setGiannisVotes] = useState();
+  const [lukaVotes, setLukaVotes] = useState();
+  const [hardenVotes, setHardenVotes] = useState();
 
   const [clickCount, setClickCount] = useState(0)
 
